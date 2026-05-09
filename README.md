@@ -19,6 +19,7 @@ Figma · Prototyping · Interaction Design · UX Research · Accessibility · HT
 Contact
 
 - GitHub: https://github.com/rubywu-ux
-- Email: (add your preferred contact email here)
+- Email: rubywu.uxd@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ruby-wu02/
 
 Want this published as your GitHub profile README? I can create the `rubywu-ux` repository named `rubywu-ux` (your username) and publish this `README.md` there — confirm and I'll push it for you.
