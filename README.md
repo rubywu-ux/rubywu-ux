@@ -12,6 +12,7 @@ Portfolio & Resume
 - Portfolio: [https://rubywu.framer.website](https://ruby-wu.framer.website)
 - Resume: [https://rubywu-ux.github.io/rubywu-resume/resume.html
 ](https://rubywu-ux.github.io/rubywu-resume/resume.html)
+
 Skills & Tools
 
 Figma · Prototyping · Interaction Design · UX Research · Accessibility · HTML/CSS · JavaScript
