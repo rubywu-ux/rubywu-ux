@@ -9,9 +9,9 @@ Hi — I'm Ruby. I design human-centered interfaces and experiences with a focus
 
 Portfolio & Resume
 
-- Portfolio: https://rubywu.framer.website
-- Resume: https://rubywu-ux.github.io/rubywu-resume/resume.html
-
+- Portfolio: [https://rubywu.framer.website](https://ruby-wu.framer.website)
+- Resume: [https://rubywu-ux.github.io/rubywu-resume/resume.html
+](https://rubywu-ux.github.io/rubywu-resume/resume.html)
 Skills & Tools
 
 Figma · Prototyping · Interaction Design · UX Research · Accessibility · HTML/CSS · JavaScript
